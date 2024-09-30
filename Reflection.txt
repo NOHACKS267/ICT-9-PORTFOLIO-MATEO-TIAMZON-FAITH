@@ -1,0 +1,40 @@
+<html>
+<header><title>REFLECTION</header></title>
+<style>
+body {
+background-image: url("https://i.pinimg.com/564x/5a/7f/1e/5a7f1eff255d5e1d91e542d67c8be256.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% auto;
+margin: 0;
+}
+</style>
+<style>
+ul {
+  list-style-type: none;
+  margin: -10;
+  padding: 25;
+  overflow: hidden;
+  background-color: #FF7F50;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+}
+</style>
+<ul>
+  <li><a href="E-PORTFOLIO.html" style="font-size:25px;">Home/About Me</a></li>
+  <li><a href="Lessons.html" style="font-size:25px;">Lessons</a></li>
+  <li><a href="Reflection.html" style="font-size:25px;">Reflection</a></li>
+</ul>
+<h1 align="center" style="color:#EE4B2B;"><b><u>REFLECTION</b></u></h1>
+<body style="background-color:#5C4033;">
+<p align="center" style="font-size:40px;"><b> In the 1st quarter of ICT-9, I had trouble remembering my past lessons because there was so much. And because of that, when lessons started, I was confused on many parts, but eventually
+as more and more activites were given, I was able to somewhat keep up with them because I had remembered the past lessons and basics of HTML. I would say that the most difficult part of the quarter was memorizing all the different 
+tags and attributes, and because I had difficulty in this, it resulted in poor performance in quizzes and hands-on outputs. But I promise to myself that this will change in the 2nd-4th Quarter, I have learned from my mistakes and
+I will do everything I can to achieve a high grade in ICT and master the lessons. </b></p>

@@ -1,0 +1,48 @@
+<html>
+<body>
+<head><title>ICT E-PORTFOLIO</title></head>
+<h1 style="color:#EE4B2B;" align="center"><b>ICT E-PORTFOLIO</b></h1>
+<h3 align="center">BY MATEO S. TIAMZON 9-FAITH</h3>
+<style>
+ul {
+  list-style-type: none;
+  margin: -10;
+  padding: 25;
+  overflow: hidden;
+  background-color: #FF7F50;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+}
+</style>
+<body style="background-color:#AA4A44;">
+
+<ul>
+  <li><a href="E-PORTFOLIO.html" style="font-size:25px;">Home/About Me</a></li>
+  <li><a href="Lessons.html" style="font-size:25px;">Lessons</a></li>
+  <li><a href="Reflection.html" style="font-size:25px;">Reflection</a></li>
+</ul>
+<p align="center" style="font-size:25px;"><b>Welcome to my ICT E-Portfolio, which is a collection or recap of the activites and lessons during the first quarter!
+<br><br>
+This is the home page, this is the first thing you will see when opening my E-Portfolio, those words you see with blue underlines are hyperlinks, you can click on them to go to different parts of the website.
+<br><br><br>
+<h3 align="center" style="font-size:50px;"><b><u>ABOUT ME</u></b></h3>
+<div style="position: relative;">
+   <img src="ABOUTME.jpg" style="border:10px solid #E1C16E; width:700; height:600; position: absolute; left: 0px; top: 120px;">
+</div>
+</p>
+<p align="right" style="font-size:35px;"<b> My name is Mateo S. Tiamzon, I was born on April 21, 2010, my hobbies are playing video games, and playing basketball, but I am not very good at it.
+My goal in life right now is to finish school, but my long term goal is to retire my parents and build wealth for future generations. I am currently in 3rd year/ 9th Grade highschool and starting the 2nd quarter,
+I hope I can do better in the 2nd quarter than in the 1st so I can reach my goals. 
+</p>
+<audio controls loop>
+  <source src="AUDIOICT.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+</body>

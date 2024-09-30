@@ -1,0 +1,66 @@
+<html>
+<head><title>XHTML</title></head>
+<body>
+<style>
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image: url("https://science.nasa.gov/wp-content/uploads/2023/09/keyhole-final-2.png?w=2048&format=webp");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% auto;
+margin: 0;
+}
+</style>
+<style>
+ul {
+  list-style-type: none;
+  margin: -10;
+  padding: 25;
+  overflow: hidden;
+  background-color: #FF7F50;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+}
+</style>
+<ul>
+  <li><a href="E-PORTFOLIO.html" style="font-size:25px;">Home/About Me</a></li>
+  <li><a href="Lessons.html" style="font-size:25px;">Lessons</a></li>
+  <li><a href="Reflection.html" style="font-size:25px;">Reflection</a></li>
+</ul>
+<h3 style="color:#EE4B2B;" align="center"><b>OUR LESSONS FOR THE FIRST QUARTER IN ICT-9</b></h3>
+<h4 style="color:#EE4B2B;" align="center"><b> What is XHTML?</b></h4>
+<img src="XHTMLWHAT.png" align="center" alt="What is XHTML?">
+<h4 style="color:#EE4B2B;" align="center"><b> An example of an XHTML code that observes proper nesting, proper tag closing, one root, proper quoting, and elements in lowercase</b></h4>
+<img src="XHTMLOUTPUT.png" align="center" alt="Example of a proper XHTML Output">
+<h3 style="color:#EE4B2B;" align="center"><b>LESSON 2: LISTS</b></h3>
+<img src="LISTS.png" align="center" alt="Types of Lists">
+<h4 style="color:#EE4B2B;" align="center"><b>ATTRIBUTES FOR ORDERED LIST AND SAMPLE CODE</b></h4>
+<img src="OATTRIBUTE.png" align="center" alt="Attributes for Ordered Lists">
+<img src="OSAMPLE.png" align="center" alt="Sample Ordered list">
+<h4 style="color:#EE4B2B;" align="center"><b>ATTRIBUTES FOR UNORDERED LIST AND SAMPLE CODE</b></h4>
+<img src="UOATTRIBUTE.png" align="center" alt="Attributes for Unordered Lists">
+<img src="UOSAMPLE.png" align="center" alt="Sample code for Unordered Lists">
+<h4 style="color:#EE4B2B;" align="center"><b>ATTRIBUTES FOR DESCRIPTION LIST AND SAMPLE CODE</b></h4>
+<img src="DATTRIBUTE.png" align="center" alt="Attributes for Description Lists">
+<img src="DSAMPLE.png" align="center" alt="Sample code for Description Lists">
+<h4 style="color:#EE4B2B;" align="center"><b>SAMPLE CODE FOR NESTED LIST</b></h4>
+<img src="NSAMPLE.png" align="center" alt="Sample code for Nested Lists">
+<h2 style="color:#EE4B2B;" align="center"><b>TABLES</b></h2>
+<img src="TSAMPLE.png" align="center" alt="Sample browser output for Tables">
+<h2 style="color:#EE4B2B;" align="center"><b>HYPERLINKS</b></h2>
+<img src="HSAMPLE.png" align="center" alt="Sample code output for hyperlinks">
+<h2 style="color:#EE4B2B;" align="center"><b>FORMS</b></h2>
+<img src="FSAMPLE.png" align="center" alt="Sample code output for forms">
+
+
+
+
+
+
